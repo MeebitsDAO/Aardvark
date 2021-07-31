@@ -1,2 +1,2 @@
 # Aardvark
-Random
+The answer is 73
