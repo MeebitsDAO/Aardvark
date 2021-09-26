@@ -1,2 +1,2 @@
-# Aardvark
-The answer is 73
+# MeebitsDAO Ticket Draw
+The verified algorithm for choosing the winners.
